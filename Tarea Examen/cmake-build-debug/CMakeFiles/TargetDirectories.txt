@@ -1,0 +1,3 @@
+D:/Trabajos progra/Tarea Examen/cmake-build-debug/CMakeFiles/rpg.dir
+D:/Trabajos progra/Tarea Examen/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Trabajos progra/Tarea Examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
