@@ -1,0 +1,3 @@
+C:/Trabajitos/Nueva carpeta/cmake-build-game/CMakeFiles/rpg.dir
+C:/Trabajitos/Nueva carpeta/cmake-build-game/CMakeFiles/edit_cache.dir
+C:/Trabajitos/Nueva carpeta/cmake-build-game/CMakeFiles/rebuild_cache.dir
